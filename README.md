@@ -18,7 +18,7 @@ I'm currently pursuing my Master's in Analytics at Northeastern University (NEU)
 
 ## 🔥 Featured Projects
 
-- **[RNN Arithmetic Solver](https://github.com/sgaur99/RNN_Arithmetic_Solver)**: A Recurrent Neural Network that performs arithmetic operations—addition, subtraction, and multiplication—on numerical sequences, showcasing how RNNs handle sequential data.
+- **[RNN Arithmetic Solver](https://github.com/sgaur99/rnn-arithmetic-solve.git)**: A Recurrent Neural Network that performs arithmetic operations—addition, subtraction, and multiplication—on numerical sequences, showcasing how RNNs handle sequential data.
 - **[Titanic Analysis Prediction](https://github.com/sgaur99/titanic-analysis-prediction)**: An exploration of the Titanic dataset to analyze passenger survival and prediction, based on various features such as gender, class, and family size.
 
 ## 🛠️ Notable Projects
