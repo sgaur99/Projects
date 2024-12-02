@@ -1,3 +1,6 @@
+
+---
+
 # Hi, I'm Shashank! 👋
 
 Welcome to my GitHub! I'm passionate about machine learning, data science, and software development. Here you'll find projects that explore the latest technologies and my journey into creating impactful solutions. I am AWS Certified Solutions Architect Associate and Mendix Intermediate Developer Certified, actively working on bridging technology and analytics to drive business impact.
@@ -18,6 +21,7 @@ I'm currently pursuing my Master's in Analytics at Northeastern University (NEU)
 
 ## 🔥 Featured Projects
 
+- **[HIV Trends and Economic Indicators Analysis](https://github.com/sgaur99/hiv-trends-analysis.git)**: An in-depth analysis of HIV prevalence across Europe (2007–2016) and its correlation with GDP and unemployment. This project highlights actionable insights and uses custom-built datasets, Python scripts, and SQL for advanced analytics and KPI generation.
 - **[RNN Arithmetic Solver](https://github.com/sgaur99/rnn-arithmetic-solve.git)**: A Recurrent Neural Network that performs arithmetic operations—addition, subtraction, and multiplication—on numerical sequences, showcasing how RNNs handle sequential data.
 - **[Titanic Analysis Prediction](https://github.com/sgaur99/titanic-analysis-prediction)**: An exploration of the Titanic dataset to analyze passenger survival and prediction, based on various features such as gender, class, and family size.
 
@@ -54,3 +58,4 @@ I'm currently pursuing my Master's in Analytics at Northeastern University (NEU)
 - **LinkedIn**: [Shashank on LinkedIn](https://linkedin.com/in/shashank-gaur3099)
 - **Email**: [shashank.gaur3099@gmail.com](mailto:shashank.gaur3099@gmail.com)
 
+---
