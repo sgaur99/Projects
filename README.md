@@ -11,13 +11,17 @@ I'm currently pursuing my Master's in Analytics at Northeastern University (NEU)
 ## 💼 Professional Experience
 
 ### Software Engineer | Cyntralabs, Noida, India (June 2022 - August 2024)
-- Developed scalable web applications and middleware solutions, focusing on enhancing restaurant management systems.
-- Leveraged AWS services for data processing and deployment, reducing errors and increasing system performance.
+- Led the design, development, and deployment of AI-driven full-stack applications integrating machine learning, DevOps automation, and cloud-native solutions.
+- Built predictive analytics models for business decision-making, improving forecast accuracy by 22%.
+- Developed and optimized CI/CD pipelines using Jenkins, Docker, and Kubernetes, reducing deployment time by 50%.
+- Automated data workflows using AWS Lambda & Azure Functions, enhancing data processing efficiency by 30%.
+
 
 ### Application Development Associate | Accenture, Noida, India (August 2021 - May 2022)
-- Collaborated with teams to implement new features and troubleshoot integration issues across multiple systems.
-- Reduced processing errors and improved scalability by optimizing AWS cloud infrastructure.
-- Developed and maintained **JSP forms** for web applications, ensuring seamless data input and user interactions.
+- Conducted EDA on large datasets, generating insights that contributed to a 10% increase in revenue-generating strategies.
+- Created data-driven dashboards with Tableau and Power BI, improving reporting efficiency by 25%.
+- Assisted in building classification models using Scikit-learn to support business intelligence strategies.
+
 
 ## 🔥 Featured Projects
 
@@ -27,9 +31,24 @@ I'm currently pursuing my Master's in Analytics at Northeastern University (NEU)
 
 ## 🛠️ Notable Projects
 
-- **Inventory Management System** (React.js, Python, Node.js, MongoDB, AWS): Led the development and deployment of an inventory management system for restaurants, improving data accuracy by 30%. Worked collaboratively across teams to optimize data storage and retrieval processes.
-- **Sales Analytics Application Development** (React.js, Python, MongoDB, AWS): Designed and deployed a sales analytics app with year-over-year and month-over-month visualizations, improving decision-making speed by 25%.
-- **Middleware Development for Data Synchronization** (Python, Node.js, AWS): Developed middleware for platforms like **Toast**, **Square**, and **Clover** using AWS, reducing data discrepancies by 20%.
+- **AI-Powered Sales & Inventory Analytics Platform** 
+    - Designed and led the development of an **AI-powered Sales & Inventory Management System** that automates stock tracking, sales forecasting, and analytics.
+    - Developed **React.js-based dashboards** for tracking inventory, sales trends, and KPIs, improving efficiency by **30%**.
+    - Integrated **Scikit-learn** models to forecast sales trends, reducing stockouts by 22% and optimizing product availability.
+    - Automated ETL pipelines using AWS Lambda & S3, cutting data processing time by **40%**.
+    - Built interactive **Power BI dashboards**, reducing manual reporting efforts by **35%**.
+
+- **Cloud-Native AI Dashboard & DevOps Automation for Leading Beverage MNC** 
+    - Led the development of an **AI-powered cloud-native dashboard** integrating **DevOps automation and AI-driven insights** for monitoring production efficiency.
+    - Built and deployed **TensorFlow models** for predictive analytics, improving anomaly detection accuracy by **30%**.
+    - **Automated business workflows** using **Azure Logic Apps**, reducing manual intervention by **40%** in tracking logistics.
+    - **Implemented CI/CD pipelines** using **Jenkins, Docker, and Kubernetes,** ensuring faster deployments and **50% reduction in downtime**.
+
+- **Web Application for Sales Optimization** 
+    - Developed an **AI-integrated sales analytics web application** that automates **sales forecasting, inventory management, and cloud-based DevOps automation**.
+    - Built interactive dashboards using **React.js and Redux**, increasing accessibility to real-time sales data by **30%**.
+    - Integrated **Scikit-learn** predictive models to analyze customer purchase behavior, improving revenue by **18%**.
+    - Designed advanced **Tableau dashboards**, helping executives visualize trends and optimize decision-making.
 
 ## 💡 Skills
 
