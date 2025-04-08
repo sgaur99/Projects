@@ -25,9 +25,15 @@ I'm currently pursuing my Master's in Analytics at Northeastern University (NEU)
 
 ## 🔥 Featured Projects
 
+## 🔥 Featured Projects
+
 - **[HIV Trends and Economic Indicators Analysis](https://github.com/sgaur99/hiv-trends-analysis.git)**: An in-depth analysis of HIV prevalence across Europe (2007–2016) and its correlation with GDP and unemployment. This project highlights actionable insights and uses custom-built datasets, Python scripts, and SQL for advanced analytics and KPI generation.
+
 - **[RNN Arithmetic Solver](https://github.com/sgaur99/rnn-arithmetic-solve.git)**: A Recurrent Neural Network that performs arithmetic operations—addition, subtraction, and multiplication—on numerical sequences, showcasing how RNNs handle sequential data.
+
 - **[Titanic Analysis Prediction](https://github.com/sgaur99/titanic-analysis-prediction)**: An exploration of the Titanic dataset to analyze passenger survival and prediction, based on various features such as gender, class, and family size.
+
+- **[Hand Gesture Recognition using Leap Motion](https://github.com/sgaur99/SignLanguage.git)**: A computer vision project using CNNs built with TensorFlow to classify 10 distinct hand gestures from the Leap Motion dataset. Includes real-time gesture mapping and performance evaluation using OpenCV and scikit-learn.
 
 ## 🛠️ Notable Projects
 
