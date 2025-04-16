@@ -25,7 +25,12 @@ I'm currently pursuing my Master's in Analytics at Northeastern University (NEU)
 
 ## 🔥 Featured Projects
 
-## 🔥 Featured Projects
+- **[BuddyKit – International Student Community Platform](https://github.com/sgaur99/buddy-kit)**  
+  A full-stack MERN web application designed to support international students transitioning to life in Boston.  
+  - Modules include **campus navigation**, **academic tools**, **event discovery**, **food guides**, and **peer networking**.  
+  - Built scalable backend APIs with **Node.js**, **Express**, and **MongoDB Atlas**, with user authentication and role-based access control.  
+  - Integrated **Mixpanel** for behavior analytics, **collaborative filtering** algorithms for personalized event/resource recommendations, and **sentiment analysis** for user feedback evaluation.  
+  - Responsive frontend developed in **React.js**, supporting real-time content rendering and user notifications.
 
 - **[HIV Trends and Economic Indicators Analysis](https://github.com/sgaur99/hiv-trends-analysis.git)**: An in-depth analysis of HIV prevalence across Europe (2007–2016) and its correlation with GDP and unemployment. This project highlights actionable insights and uses custom-built datasets, Python scripts, and SQL for advanced analytics and KPI generation.
 
