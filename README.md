@@ -25,29 +25,25 @@ I'm currently pursuing my Master's in Analytics at Northeastern University (NEU)
 
 ## 🔥 Featured Projects
 
- ## 🧠 Neural Networks from Scratch (Micrograd)
+- **[Neural Networks from Scratch (Micrograd)](https://github.com/sgaur99/micrograd-scratch)**  
+  A complete reverse-mode automatic differentiation engine and neural network library built from first principles in Python, inspired by Andrej Karpathy's Micrograd.  
+  - Implemented a custom **Value** class supporting computational graph construction, gradient tracking, and automatic differentiation.  
+  - Developed **reverse-mode backpropagation** using topological sorting and the chain rule without relying on PyTorch autograd.  
+  - Built **Neuron**, **Layer**, and **MLP** classes from scratch to understand the internals of neural network architectures.  
+  - Visualized computation graphs and gradient flow using **Graphviz** for debugging and interpretability.  
+  - Trained multi-layer perceptrons using **gradient descent** and **Mean Squared Error (MSE)** loss.  
+  - Solved nonlinear problems such as **XOR classification**, demonstrating the importance of hidden layers and network depth.  
+  - Developed a strong understanding of autograd systems, gradient accumulation, optimization, and backpropagation mechanics.
 
-Built a complete reverse-mode automatic differentiation engine and neural network library from first principles in Python, inspired by Andrej Karpathy's Micrograd.
-
-* Implemented a custom `Value` class supporting computational graph construction, gradient tracking, and automatic differentiation.
-* Developed reverse-mode backpropagation using topological sorting and the chain rule.
-* Built `Neuron`, `Layer`, and `MLP` classes entirely from scratch without PyTorch autograd.
-* Visualized computation graphs and gradient flow using Graphviz.
-* Trained multi-layer perceptrons using gradient descent and Mean Squared Error loss.
-* Solved nonlinear problems such as XOR classification to understand the importance of hidden layers.
-* Gained practical understanding of autograd engines, gradient accumulation, and neural network optimization.
-
-## 🔤 Character-Level Language Model from Scratch (Makemore)
-
-Implemented a statistical character-level language model using bigrams and probability theory before introducing neural networks.
-
-* Processed thousands of names to build a vocabulary of 27 characters (26 letters + start/end token).
-* Constructed a 27×27 bigram count matrix representing character transition frequencies.
-* Applied Laplace smoothing and row-wise normalization to create probability distributions.
-* Generated entirely new names by sampling from learned character transition probabilities.
-* Evaluated model performance using likelihood, log-likelihood, and Negative Log-Likelihood (NLL).
-* Visualized bigram count matrices and probability heatmaps to interpret learned language patterns.
-* Built foundational understanding of language modeling, probability distributions, sampling, and loss functions used in modern LLMs.
+- **[Character-Level Language Model from Scratch (Makemore)](https://github.com/sgaur99/makemore-scratch)**  
+  A character-level language model built from scratch using bigrams, probability theory, and PyTorch to understand the foundations of modern language models.  
+  - Processed thousands of names to construct a vocabulary of **27 characters** (26 letters + start/end token).  
+  - Built a **27×27 Bigram Count Matrix** to learn character transition frequencies across the dataset.  
+  - Applied **Laplace smoothing** and row-wise normalization to transform counts into probability distributions.  
+  - Generated entirely new names by sampling from learned character transition probabilities using **torch.multinomial**.  
+  - Evaluated model quality using **likelihood**, **log-likelihood**, and **Negative Log-Likelihood (NLL)** metrics.  
+  - Created visualizations including **bigram heatmaps** and probability matrices to interpret learned language patterns.  
+  - Developed foundational knowledge of language modeling, probability distributions, sampling, smoothing techniques, and loss functions that underpin modern LLMs.
 
 - **[BuddyKit – International Student Community Platform](https://github.com/sgaur99/buddy-kit)**  
   A full-stack MERN web application designed to support international students transitioning to life in Boston.  
