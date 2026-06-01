@@ -10,17 +10,29 @@ I'm currently pursuing my Master's in Analytics at Northeastern University (NEU)
 
 ## 💼 Professional Experience
 
-### Software Engineer | Cyntralabs, Noida, India (June 2022 - August 2024)
-- Led the design, development, and deployment of AI-driven full-stack applications integrating machine learning, DevOps automation, and cloud-native solutions.
-- Built predictive analytics models for business decision-making, improving forecast accuracy by 22%.
-- Developed and optimized CI/CD pipelines using Jenkins, Docker, and Kubernetes, reducing deployment time by 50%.
-- Automated data workflows using AWS Lambda & Azure Functions, enhancing data processing efficiency by 30%.
+### Software Engineer Co-op (AI, Cloud & Platform Engineering) | Lendbuzz, Boston, MA (Oct 2025 - Apr 2026)
 
+- Architected and deployed an AI-powered call automation platform on AWS (ECS, EC2, S3), reducing operational costs by 50% by automating customer service workflows.
+- Designed and launched 5+ containerized REST APIs supporting identity verification, payment processing, loan status retrieval, and real-time customer interactions.
+- Built agentic AI workflows using LLM APIs, tool-calling, and orchestration services to automate complex multi-step customer support processes.
+- Developed scalable data pipelines that ingested Genesys call data into S3 and PostgreSQL, enabling automated analytics, reporting, and downstream AI workflows.
+- Implemented observability and monitoring solutions using Coralogix and cloud-native logging systems to detect anomalies and improve production reliability.
+- Owned end-to-end cloud deployment and CI/CD processes using Docker, GitHub Actions, and AWS infrastructure, delivering production-ready services in a collaborative engineering environment.
 
-### Application Development Associate | Accenture, Noida, India (August 2021 - May 2022)
-- Conducted EDA on large datasets, generating insights that contributed to a 10% increase in revenue-generating strategies.
-- Created data-driven dashboards with Tableau and Power BI, improving reporting efficiency by 25%.
-- Assisted in building classification models using Scikit-learn to support business intelligence strategies.
+### Software Engineer (Full-Stack, Data & Cloud) | Cyntralabs, Noida, India (Jun 2022 - Aug 2024)
+
+- Built and deployed full-stack business applications using React, Node.js, MongoDB, Python, and cloud-native services for restaurant and retail clients.
+- Architected real-time data integration middleware synchronizing transactions, inventory, and operational data across 5 major POS platforms.
+- Developed predictive analytics and forecasting solutions using machine learning models to improve inventory planning, demand forecasting, and business decision-making.
+- Automated cloud workflows and data pipelines using Azure Functions, Logic Apps, and event-driven architectures, reducing manual intervention and improving scalability.
+- Containerized applications with Docker, orchestrated deployments using Kubernetes, and implemented CI/CD pipelines through Azure DevOps and Jenkins, reducing deployment time by 50%.
+- Delivered interactive analytics dashboards and reporting platforms enabling real-time operational visibility and performance monitoring.
+
+### Application Development Associate | Accenture, Noida, India (Aug 2021 - May 2022)
+
+- Developed and maintained enterprise Java applications using Spring MVC, JSP, and SQL-based systems.
+- Performed data analysis, reporting, debugging, and production support activities for large-scale enterprise clients.
+- Collaborated with cross-functional teams to resolve production issues, improve application reliability, and maintain service-level commitments.
 
 
 ## 🔥 Featured Projects
